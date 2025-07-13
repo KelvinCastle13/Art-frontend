@@ -23,7 +23,9 @@ export function ArtsPage() {
   useEffect(handleIndex, []);
   
   return (
-    <main className="center-page">  
+    <main 
+    className="center-page"
+    >  
       <ArtsIndex arts={arts}/>
     </main>
   )

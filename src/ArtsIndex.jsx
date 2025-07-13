@@ -7,7 +7,7 @@ export function ArtsIndex({arts}) {
 
   return (
     <div>
-    <h1>Art Institude of Chicago</h1>
+    <h1 className="headline">Art Institude of Chicago</h1>
 
 Search filter: 
     <br></br>
