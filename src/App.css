@@ -53,3 +53,12 @@ body {
 .headline {
   font-size: 5ch;
 }
+
+.artTitle {
+  font-size: 3ch;
+  font-family: fantasy;
+}
+
+.info {
+  font-size: 2ch;
+}
